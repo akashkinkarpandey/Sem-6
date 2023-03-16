@@ -1,16 +1,44 @@
 All CA3 Suggestions will be mentioned here.
 
 -CN
+https://www.youtube.com/watch?v=vv4y_uOneC0
+OSI model
+ARQ, stop n wait, out of these watch 1
+fault tolerance 
+Error detection & control
 
 
 -DBMS
-
+.till Lec 27 atleast watch of DBMS Gate smashers must see.
+.and SQL playlist from lec-49 to 67 see.
+.Functional dependency...Database Normalization 1NF see.
+.SQL-3 QS (10 marks expected)
+.lec 7,8,9,10,11 primary key,candidate key Gate smashers see must
+.ER Sir might not give
 
 -HR
-
+.organizational behaviour pdf-pg 7,8,9,10 important.
+.HRD- study highlighted ones.
+.personality and attitudes-components
+.pg 4 of personality.pptx see(traits)
+.the Big Five model
+.pg 9 of personality.pptx ego supergo
+.erickson.pptx not important
+.Johari windows important
+.perception.pptx.pdf->pg 4 diagrams,pg 9 important
+.perceptual errors.pdf pore nis 1 page
+.motivation.pptx->pg 4 hierarchy,maslows pg 6 vvip,pg 16 maslow
 
 -DDBMS
-
+.pg 11 of transaction management pptx diye diyeche.(point 8)
+.maam's 1st 4 points of suggestion-short
+.last 6 points -long ans
+.point 10 semi join must see.
+(pg 10 of distributed query optimization)
+.from 5,6- 1 of them will come.
+.from point 7,9 - one will come but see these 2 only if time is there.
+.pg 10 of distributed query optimization
+.maam boleche algorithm ase na
 
 -Data Mining
 
