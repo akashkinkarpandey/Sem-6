@@ -4,7 +4,10 @@ All CA3 Suggestions will be mentioned here.
 what we figured out for CN->
 https://www.youtube.com/watch?v=vv4y_uOneC0
 OSI model
-ARQ, stop n wait, out of these watch 1
+ARQ, stop n wait, 
+window size restriction
+window size resolution
+out of these watch 1
 fault tolerance 
 Error detection & control
 by sirfor CN->
