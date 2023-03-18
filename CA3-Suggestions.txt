@@ -30,6 +30,19 @@ Error detection & control
 .motivation.pptx->pg 4 hierarchy,maslows pg 6 vvip,pg 16 maslow
 
 -DDBMS
+below what maam has said in classroom for ddbms-
+1. Distributed query optimization concept
+2. Concept of join graph, data replication, autonomy in distributed systems 
+3. Join graph uses 
+4. Concept of types of fragmentations
+5. Definition of catalogs and its uses
+6. Distributed catalog management concepts
+7. Simplification of queries using query reduction techniques.
+8. Architecture of distributed transaction management
+9. Concept of distributed transaction management and its components
+10. Semi-join strategies and its benefits
+
+below is what we figured out for ddbms-
 .pg 11 of transaction management pptx diye diyeche.(point 8)
 .maam's 1st 4 points of suggestion-short
 .last 6 points -long ans
