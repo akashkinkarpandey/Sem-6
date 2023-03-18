@@ -1,0 +1,29 @@
+import numpy as np 
+import pandas as pd 
+from sklearn.svm import SVC 
+from sklearn.model_selection import train_test_split 
+from sklearn.metrics import classification_report, confusion_matrix 
+#Load the dataset
+dataset = pd.read_csv('path/to/dataset.csv')
+#Prepare the data 
+
+we will assume that the target variable is in the last column of the dataset.
+X = dataset.iloc[:, :-1].values 
+y = dataset.iloc[:, -1].values
+#Split the data
+
+  X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=0)
+
+#Train the model
+
+classifier = SVC(kernel='linear', random_state=0) 
+classifier.fit(X_train, y_train)
+
+#Test the model
+
+y_pred = classifier.predict(X_test)
+
+#Evaluate the model
+
+print(confusion_matrix(y_test,y_pred)) 
+print(classification_report(y_test,y_pred))
