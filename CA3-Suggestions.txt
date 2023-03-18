@@ -37,6 +37,7 @@ Layered architecture
 .motivation.pptx->pg 4 hierarchy,maslows pg 6 vvip,pg 16 maslow
 
 -DDBMS
+study from here->(links in ddbms.docx+ classroom pdfs in github+ this .txt file suggestions)
 below what maam has said in classroom for ddbms-
 1. Distributed query optimization concept
 2. Concept of join graph, data replication, autonomy in distributed systems 
