@@ -64,3 +64,19 @@ below is what we figured out for ddbms-
 -Data Mining
 
 
+
+an expert wrote below-------
+
+Eta main syllabus jetar module 1 & 2 hoyche sob subj r &.....
+DBMS e sir boleche 
+Functional Dependency teke 5 marks math-
+10 ta sql query 10 marks- primary & foreign key define 5 marks - 5 fill in the blanks
+
+Cn e till ARQ (data link layer)obdhi sob ache
+
+HR e module 1 & 2 
+
+DDBMS e 2 to qs suggestions dieche rewriting & query optimization & semi join
+
+Mining e assignment 2 r qs gulo theke asbe boleche no syllabus limit
+
