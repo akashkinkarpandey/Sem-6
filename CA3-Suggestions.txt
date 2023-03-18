@@ -1,12 +1,19 @@
 All CA3 Suggestions will be mentioned here.
 
 -CN
+what we figured out for CN->
 https://www.youtube.com/watch?v=vv4y_uOneC0
 OSI model
 ARQ, stop n wait, out of these watch 1
 fault tolerance 
 Error detection & control
-
+by sirfor CN->
+Haming code for math
+Topology for theory 
+SMTP
+MIME
+Impairment 
+Layered architecture
 
 -DBMS
 .till Lec 27 atleast watch of DBMS Gate smashers must see.
