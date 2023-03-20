@@ -19,6 +19,7 @@ Go back N must
 Layered architecture
 
 -DBMS
+.  https://visitmehere.wordpress.com/2021/01/03/movie-database-vtu-dbms-18csl58/  watch for queries
 .till Lec 27 atleast watch of DBMS Gate smashers must see.
 .and SQL playlist from lec-49 to 67 see.
 .Functional dependency...Database Normalization 1NF see.
