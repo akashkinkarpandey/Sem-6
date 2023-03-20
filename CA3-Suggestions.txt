@@ -10,12 +10,12 @@ window size resolution
 out of these watch 1
 fault tolerance 
 Error detection & control
-by sirfor CN->
-Haming code for math
-Topology for theory 
-SMTP
-MIME
-Impairment 
+by sir for CN->
+SMTP,MIME,TELNET full form MUST
+Haming code for math MUST
+Topology for theory  MUST
+Impairment MUST
+Go back N must
 Layered architecture
 
 -DBMS
